@@ -25,3 +25,7 @@
 - the host
 - memory of murder
 - money
+
+### west
+- annihilation (2018)
+- cloverfield (2008), 10 cloverfield lane (2016), the cloverfield paradox (2018)
