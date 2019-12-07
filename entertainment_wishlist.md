@@ -10,7 +10,6 @@
 - the umbrella academy
 
 # anime
-- kabaneri
 - devilman crybaby
 - katekyou hitman reborn
 - vinland saga
@@ -29,3 +28,4 @@
 ### west
 - annihilation (2018)
 - cloverfield (2008), 10 cloverfield lane (2016), the cloverfield paradox (2018)
+- children of men
