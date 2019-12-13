@@ -10,14 +10,15 @@
 - the umbrella academy
 
 # anime
-- devilman crybaby
-- katekyou hitman reborn
-- vinland saga
-- gurren lagan
-- berserk (1997)
-- moribito (2007)
-- the twelve kingdoms (2002)
-- legend of the galactic heroes (1988-2001)
+  ### old
+  - devilman crybaby
+  - katekyou hitman reborn
+  - vinland saga
+  - gurren lagan
+  - berserk (1997)
+  - moribito (2007)
+  - the twelve kingdoms (2002)
+  - legend of the galactic heroes (1988-2001)
 
   ### winter 2020
   - plunderer
