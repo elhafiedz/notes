@@ -19,13 +19,22 @@
 - the twelve kingdoms (2002)
 - legend of the galactic heroes (1988-2001)
 
-# movie
-### korean
-- the host
-- memory of murder
-- money
+  ### winter 2020
+  - plunderer
+  - rikei ga koi ni ochita no de shoumei shite mita
+  - darwin's game
+  - somali to mori no kamisama
+  - jibaku shounen hanako-kun
+  - dorohedoro
+  - ishuzoku reviewers
 
-### west
-- annihilation (2018)
-- cloverfield (2008), 10 cloverfield lane (2016), the cloverfield paradox (2018)
-- children of men
+# movie
+  ### korean
+  - the host
+  - memory of murder
+  - money
+
+  ### west
+  - annihilation (2018)
+  - cloverfield (2008), 10 cloverfield lane (2016), the cloverfield paradox (2018)
+  - children of men
