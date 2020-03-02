@@ -13,7 +13,6 @@
   ### old
   - devilman crybaby
   - katekyou hitman reborn
-  - vinland saga
   - gurren lagan
   - berserk (1997)
   - moribito (2007)
@@ -42,4 +41,11 @@
   
 # books
   ### fantasy
-  - wheel of time
+  - the wheel of time
+  - the first law trilogy
+  - the stormlight archive
+  - lightbringer
+  - gentleman bastard
+  - the lord of the ring
+  - song of ice and fire
+  - the witcher
