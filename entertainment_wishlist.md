@@ -13,7 +13,6 @@
   ### old
   - devilman crybaby
   - katekyou hitman reborn
-  - gurren lagan
   - berserk (1997)
   - moribito (2007)
   - the twelve kingdoms (2002)
@@ -27,6 +26,12 @@
   - jibaku shounen hanako-kun
   - dorohedoro
   - ishuzoku reviewers
+  
+  ### spring 2020
+  - kami no tou : tower of god
+  - maou gakuin no futekigousha
+  - gleipnir
+  - appare-ranman
 
 # movie
   ### korean
